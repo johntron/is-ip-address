@@ -1,0 +1,9 @@
+{
+  "name": "is-ip-address",
+  "version": "0.0.1",
+  "repository": "https://github.com/johntron/is-ip-address.git",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}

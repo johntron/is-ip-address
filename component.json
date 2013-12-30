@@ -1,0 +1,9 @@
+{
+  "name": "is-ip-address",
+  "repo": "johntron/is-ip-address",
+  "description": "Validate a string is an IP (v4 or v6) address.",
+  "version": "0.0.1",
+  "keywords": ["validate", "ip", "address", "regexp", "regex"],
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
